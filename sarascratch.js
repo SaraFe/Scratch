@@ -29,5 +29,5 @@ new (function() {
     };
 
     // Register the extension
-    ScratchExtensions.register('Random wait extension', descriptor, ext);
+    ScratchExtensions.register('sarascratch', descriptor, ext);
 })();
